@@ -1,4 +1,4 @@
-# RateLimiter https://travis-ci.org/Negaihoshi/ratelimiter.svg?branch=master
+# RateLimiter [![Build Status](https://travis-ci.org/Negaihoshi/ratelimiter.svg?branch=master)](https://travis-ci.org/Negaihoshi/ratelimiter)
 
 ### Require
 
