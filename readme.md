@@ -12,7 +12,9 @@
 - npm test
 
 The service will run with 3000 port.
+
 The Redis use default setting(127.0.0.1:6379)
+
 Testing will delete ip 127.0.0.1 redis bucket.
 
 ### Why use in-memory database with Redis
