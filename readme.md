@@ -1,4 +1,4 @@
-# RateLimiter
+# RateLimiter https://travis-ci.org/Negaihoshi/ratelimiter.svg?branch=master
 
 ### Require
 
